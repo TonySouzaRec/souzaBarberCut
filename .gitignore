@@ -1,0 +1,31 @@
+*.metadata/
+/.metadata/
+# Arquivos compilados do Java
+*.class
+/bin/
+/target/
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados por IDEs
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+.nb-gradle/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
