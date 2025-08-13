@@ -48,4 +48,4 @@ git clone https://github.com/SEU_USUARIO/barbearia-poo.git
 
 2. Abra o projeto na IDE Eclipse.
 
-3. Execute a classe br.com.barbearia.util.MenuPrincipal para iniciar o menu de cadastro.
+3. Execute a classe br.com.barbearia.util.MenuPrincipal para iniciar o menu de cadastro.# souzaBarberCut
